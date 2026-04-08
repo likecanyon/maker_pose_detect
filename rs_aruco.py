@@ -77,7 +77,7 @@ try:
                             (px, py - 10),
                             cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 255, 0), 2)
 
-        cv2.imshow("OpenCV ArUco Pose Debug", vis)
+        cv2.imshow("ArUco Pose Detection", vis)
         key = cv2.waitKey(1)
         if key == 27 or key == ord('q'):
             break

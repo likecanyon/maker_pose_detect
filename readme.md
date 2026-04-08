@@ -1,3 +1,9 @@
+## Aruco Marker Pose Detection
+
+![Viewer](Detection.jpg "Aruco Marker Pose Detection")
+
+
+
 ## Python dependencies
 
 Install the required Python packages:
